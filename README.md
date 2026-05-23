@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Joaquin Ledezma 👋
 
-<!--
-**JLedezB/JLedezB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer specialized in Information Security | Aspiring Security Analyst
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔐 About Me
+
+I am a Software Engineer focused on cybersecurity, SOC operations, IT support, and secure web application development.
+
+---
+
+## 🎯 Interests
+
+- Threat Detection
+- Incident Response
+- SIEM & Log Analysis
+- Email Security
+- Web Security
+- Blue Team Operations
+
+---
+
+## 🛠️ Technologies & Tools
+
+- JavaScript
+- ReactJS
+- Node.js
+- MongoDB
+- Express.js
+- Linux
+- ServiceNow
+- Active Directory
+- Burp Suite
+- Wazuh
+- Wireshark
+
+---
+
+## 📌 Featured Projects
+
+### EcoSteps
+SGSS management platform developed as a graduation project for CETI Colomos.
+
+### Phishing Email Analysis Lab
+Security dashboard for phishing analysis, IOC extraction, header analysis, DNS validation, and threat intelligence enrichment.
+
+---
+
+## 📫 Contact
+
+- LinkedIn: www.linkedin.com/in/joaquinlb
+- Email: j.ledezmab0.2@gmail.com
